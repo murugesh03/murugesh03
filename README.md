@@ -26,7 +26,7 @@ Here are the tools and technologies I work with:
 
 ### **Frameworks & Libraries**
 
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/><img width="50" height="50" src="https://img.icons8.com/ios/50/000000/express-js.png" alt="express-js"/><img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/><img width="50" height="50" src="https://img.icons8.com/ios/50/000000/express-js.png" alt="express-js" style="filter: invert(100%);"/><img width="50" height="50" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
 
 ### **Tools & Platforms**
 
