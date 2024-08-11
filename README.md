@@ -1,9 +1,5 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Murugesh Padmanabhan!
 
-![Profile Banner](https://via.placeholder.com/800x200)  
-*Crafting solutions with creativity and code.*
-
----
 
 ## 🚀 About Me
 
@@ -31,6 +27,16 @@ Here are the tools and technologies I work with:
 ### **Tools & Platforms**
 
 <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="50" height="50" src="https://img.icons8.com/color/48/google-cloud.png" alt="google-cloud"/><img width="50" height="50" src="https://img.icons8.com/color/48/eslint.png" alt="eslint"/><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" alt="external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/dusk/64/babel.png" alt="babel"/><img width="50" height="50" src="https://img.icons8.com/color/48/webpack.png" alt="webpack"/><img width="50" height="50" src="https://img.icons8.com/color/48/npm.png" alt="npm"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/color/48/heroku.png" alt="heroku"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to discussing technology, collaborating on projects, or sharing ideas. Feel free to reach out!
+
+- **Email:** [murugeshvj@gmail.com](mailto:murugeshvj@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **Twitter:** [@yourusername](https://twitter.com/yourusername)
 
 ---
 
