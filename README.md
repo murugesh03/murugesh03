@@ -35,8 +35,8 @@ Here are the tools and technologies I work with:
 I’m always open to discussing technology, collaborating on projects, or sharing ideas. Feel free to reach out!
 
 - **Email:** [murugeshvj@gmail.com](mailto:murugeshvj@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **LinkedIn:** [Murugesh Padmanabhan](https://www.linkedin.com/in/murugeshpadmanabhan/)
+- **Twitter:** [@murugeshvj](https://x.com/murugeshvj)
 
 ---
 
