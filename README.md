@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m **[Your Name]**, a passionate [Your Role or Title] from [Your Location]. My journey in the tech world started [mention your background or how you got into tech]. I specialize in [your areas of expertise], and I’m always excited to learn and grow.
+I’m **[Mururgesh Padmanabhan]**, a passionate [Technical Lead] from [Chennai]. My journey in the tech world started the tech world is unique. I transitioned from a non-IT background, driven by my deep passion for technology and its endless possibilities... Initially specializing in front-end development, I’ve become a full-stack developer, embracing both front-end and back-end technologies. I’m always excited to learn, grow, and tackle new challenges, continuously improving my skills to create comprehensive and impactful web solutions...
 
 ### 🌟 What I Do
 
